@@ -1,5 +1,7 @@
 my name is navadeep 
-roll no 45
-Aditya degree college vzm
-section B
-class bsc cloud computing 
+roll no :45
+Aditya degree college
+vzm
+section :B
+class :bsc cloud computing 
+branch :computer science 
